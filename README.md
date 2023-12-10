@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Ammar from India<br><br>- 🔭 I’m working as backend developer<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I code some cool stuff.</p>
+<p align="left">I'm Ammar a backend from India<br><br>- 🔭 I’m working as backend developer<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I code some cool stuff.</p>
 
 ###
 
