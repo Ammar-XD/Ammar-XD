@@ -1,31 +1,20 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1178741210567946272/1183408902407209070/image.png?ex=65883a6d&is=6575c56d&hm=fcefdd5dccbbf519f53dc1371e73342177cd982696b89a43ef0ebf0e5e398889&"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://discord.gg/CzYADEzSX7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<p align="left">My name is Ammar and I'm a Java  Developer from India.</p>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h2 align="left">About me</h2>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">- 🔭 I’m working as backend developer<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I code some cool stuff.</p>
 
 ###
 
-<p align="left">I'm Ammar a backend from India<br><br>- 🔭 I’m working as backend developer<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I code some cool stuff.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -33,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -43,12 +34,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ammar-xd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar-XD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ammar-XD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar-XD&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
